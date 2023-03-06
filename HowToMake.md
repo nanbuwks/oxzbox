@@ -10,7 +10,7 @@
 
 ウェイトとシリカゲルの配置
 
-<img src=images/MG_20230301_203423.jpg width=500>
+<img src=images/IMG_20230301_203423.jpg width=500>
 
 
 12cm ファン
@@ -25,7 +25,7 @@
 
 シリコンケーブルヒーター 25Ω/m 2m を防水コネクタで接続
 
-<img src=images/MG_20230301_203104.jpg width=500>
+<img src=images/IMG_20230301_203104.jpg width=500>
 
 
 メタルワイヤーラックシェルフにオゾンジェネレーターとファンを固定
@@ -42,7 +42,7 @@
 
 USBアダプタ配線
 
-<img src=images/MG_20230301_203527.jpg width=500>
+<img src=images/IMG_20230301_203527.jpg width=500>
 
 
 
