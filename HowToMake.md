@@ -1,6 +1,8 @@
 # 組み立て方
 
 オゾンジェネレーターの制御改造
+cf., 「オゾン発生器を Hack - Qiita」
+https://qiita.com/nanbuwks/items/5e64bea0cba4792f43ec
 
 <img src=images/IMG_20230301_150515.jpg width=500>
 
